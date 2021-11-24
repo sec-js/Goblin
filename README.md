@@ -172,3 +172,8 @@ This tool can only be used in enterprise security construction and offensive and
 ## :laughing: Stargazers
 
 [![Stargazers over time](https://starchart.cc/xiecat/goblin.svg)](https://starchart.cc/xiecat/goblin)
+
+
+## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
+
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
