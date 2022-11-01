@@ -176,4 +176,4 @@ This tool can only be used in enterprise security construction and offensive and
 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/inject_exp
